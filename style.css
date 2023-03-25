@@ -1,26 +1,25 @@
 body {
-    background-color:   cadetblue;
-        font-family:'Gill Sans', 'Gill Sans M T', Calibri, 'Trebuchet MS', sans-serif
+    background-color: lightcoral;
     }
     
     h1{
         color: black;
     }
     th{
-        background-color:    #0bf364;
+        background-color: gray;
     }
     table{
         margin-left: 420px;
-        background-color: rgb(231, 211, 27)
+        background-color: darkred;
     }
     img{
     height: 100px;
     width: 100px;
     }
     titulo1{
-        font-family: 'PROJECT SPACE', sans-serif;
+        font-family: cursive;
             font-size: 50px;
-            color: blue;
+            color: darkred;
             text-align: center;                                       
     }
     .collage{
@@ -38,73 +37,64 @@ body {
         width: 200px;
         height: 200px;
         z-index:1;
-        box-shadow:2px 2px 2px #1fff0f;
+        box-shadow:2px 2px 2px gray;
     }
     
     .imagen2{
         position: absolute;
         top: 0;
-        left: 200px;
+        left: 350px;
         width: 200px;
         height: 200px;
         z-index:2;
-        box-shadow:2px 2px 2px #FFB30F;
+        box-shadow:2px 2px 2px khaki;
     }
     
     .imagen3{
         position: absolute;
         top: 0;
-        left: 300px;
+        left: 200px;
         width: 200px;
         height: 200px;
         z-index:3;
-        box-shadow:2px 2px 2px #FFB30F;
+        box-shadow:2px 2px 2px aquamarine;
     }
     
     .imagen4{
         position: absolute;
         top: 0;
-        left: 400px;
+        left: 320px;
         width: 200px;
         height: 200px;
         z-index:4;
-        box-shadow:2px 2px 2px #FFB30F;
+        box-shadow:2px 2px 2px darkgoldenrod;
     }
     
     .imagen5{
         position: absolute;
         top: 0;
-        left: 500px;
+        left: 250px;
         width: 200px;
         height: 200px;
         z-index:5;
-        box-shadow:2px 2px 2px #FFB30F;
+        box-shadow:2px 2px 2px lightcoral;
     }
     
     .imagen6{
         position: absolute;
         top: 0;
-        left: 600px;
+        left: 100px;
         width: 200px;
         height: 200px;
         z-index:6;
-        box-shadow:2px 2px 2px #FFB30F;
+        box-shadow:2px 2px 2px lightgreen;
     }
     .imagen7{
         position: absolute;
         top: 0;
-        left: 700px;
+        left: 300px;
         width: 200px;
         height: 200px;
         z-index:7;
-        box-shadow:2px 2px 2px #FFB30F;
-    }
-    .imagen8{
-        position: absolute;
-        top: 0;
-        left: 800px;
-        width: 200px;
-        height: 200px;
-        z-index:8;
-        box
+        box-shadow:2px 2px 2px lightseagreen;
     }
